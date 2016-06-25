@@ -1,0 +1,226 @@
+* {
+	margin: 0 auto 0 auto;
+	text-align: left;
+	
+}
+
+
+body {
+	font-family:Times New Roman;
+	background-image: url(chitralnationalpark.jpg);
+	background-repeat: no-repeat;
+	background-size: 1025px 600px;
+}
+
+#wrap {
+	margin: 20px;
+}
+
+.pakistan {
+		color:#CCFFBB;
+	}
+
+
+
+.h1 {
+	text-transform: uppercase;
+	font-size: 20px;
+	letter-spacing: .2em;
+	word-spacing: .3em;
+	text-shadow: 1px 1px 0px #A4A4A4;
+}
+
+#head {
+	float:left;
+	
+}
+
+#nav ul li{
+	list-style: none;
+	display: inline;
+	font-weight: bold;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.dotted {
+	border-left: 2px dotted white;
+	border-right: 2px dotted white;
+}
+
+#nav {
+	float: left;
+	margin-left: 250px;
+	margin-top: 5px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	padding: 5px;
+	border-radius: 2px;
+}
+ 
+#nav a:hover {
+	background-color: #CCFFBB;
+	color: black;
+	
+	
+}
+
+#one {
+	/*background-color: black;*/
+	width: 700px;
+	height:90px;
+	position:absolute;
+	top: 500px;
+	left: 150px;
+	/*opacity: 0.5;*/
+	border-left: 2px solid #CCFFBB;
+	color:white;
+	background-color: rgba(0,0,0,0.5);
+	padding: 3px;
+	word-spacing: .01em;
+	letter-spacing:.02em;
+	line-height: 1.1em;
+	
+}
+
+#one p 
+	{
+	
+	font-size:12px;
+	font-weight:bold;
+	}
+
+#two {
+	position: absolute;
+	top: 650px;
+	
+	
+}
+
+.center {
+	text-align: center;
+	text-decoration:underline;
+	text-shadow: 1px 1px 0px #A4A4A4;
+}
+	
+#two p {
+	
+	text-align: center;
+	font-size: 15px;
+	line-height: 20px;
+	word-spacing: .2em;
+}
+
+#three {
+	float:left;
+	width:250px;
+	position:absolute;
+	top:790px;
+	margin: 20px;
+	
+}
+
+#image1 {
+	width:250px;
+	height:250px;
+	
+}
+
+#three h3 {
+	margin-bottom: 20px;
+	border-bottom: 2px solid grey;
+	text-align: center;
+	text-shadow: 0.9px 1px 0px #A4A4A4;
+} 
+
+#four {
+	float: left;
+	width: 390px;
+	position: absolute;
+	top: 790px;
+	margin: 20px;
+	margin-left: 280px;
+}
+
+#four ul {
+	list-style: none;
+	margin: 0px;
+	padding:0px;
+	
+}
+
+#four li {
+	margin:10px;
+	overflow: hidden;
+	width:380px;
+	padding:0px;
+	
+}
+
+#four p{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size: 13px;
+	
+}
+
+
+#four h3 {
+	margin-bottom: 20px;
+	border-bottom: 2px solid grey;
+	text-align: center;
+	text-shadow: 0.9px 1px 0px #A4A4A4;
+} 
+
+img.align-left {
+		float:left;
+		margin-right: 10px;
+}
+
+#five {
+	float: left;
+	width: 300px;
+	position: absolute;
+	top: 790px;
+	margin:20px;
+	margin-left: 690px;
+}
+		
+#five h3 {
+	margin-bottom: 20px;
+	border-bottom: 2px solid grey;
+	text-align: center;
+	text-shadow: 0.9px 1px 0px #A4A4A4;
+} 
+		
+#five ul{
+	margin: 0px;
+	list-style: none;
+	text-align: center;
+	padding: 0px;
+}
+
+#five li {
+	display: inline; 
+	}
+		
+#six {
+	width: 300px;
+	height: 160px;
+	
+	overflow: scroll;
+	float: left;
+}
+
+.newtable {
+	border:1px solid black;
+	border-collapse: collapse;
+	font-size: 12px;
+	font-family:Tahoma, Geneva, sans-serif;
+	width: 300px;
+	text-align: left;
+	
+
+}
